@@ -1,4 +1,3 @@
-import time
 import json
 import random
 
@@ -40,7 +39,6 @@ def get_winner(stakes_json, owner_address, seed):
 
 
 def main(seed, json_file):
-    time_start = time.time()
 
     with open(json_file, 'r') as f:
         stakes_json = json.load(f)['result']['epochInfo']['current']['stakes']
