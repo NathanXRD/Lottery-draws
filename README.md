@@ -1,5 +1,5 @@
 # Lottery-draws
-Lottery draws of Candlestake.io, staking service for Radix
+Lottery draws of [Candlestake.io](https://candlestake.io), staking service for Radix
 
 ## How to verify the results
 
@@ -12,8 +12,13 @@ It must be called like this: `python get-winner.py <seed> <path_to_candidates_js
 `path_to_candidates_json` is the path to a JSON extracted directly from the Radix API call named `account.get_info`.
 
 A correct use would be:
+
 ```bash
 python3 ./get-winner.py 0000000000000000000bb6435ae10d81d962a6714d9a6d1e8db3cee38303902f './Draws/Sample draw - 17-08-2021/17-08-2021_00-00-00.json'
+```
+
+Which displays:
+```bash
 Winner: rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02ax3cgscl2zdhc3k6lg905vac
 Seed: 1121783408069534878293918418128988563240585841701261359
 Stakes json: ./Draws/Sample draw - 17-08-2021/17-08-2021_00-00-00.json
