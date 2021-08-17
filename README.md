@@ -1,5 +1,5 @@
 # Lottery-draws
-Lottery draws of Candlestake.io, staking service for Radix
+Lottery draws of [Candlestake.io](https://candlestake.io), staking service for Radix
 
 ## How to verify the results
 
