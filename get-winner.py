@@ -23,19 +23,19 @@ def get_proportional_random(l, seed):
 
 
 def get_winner(stakes_json, owner_address, seed):
-    delegator = []
-    amount = []
+    delegators = []
+    amounts = []
 
     for stake in stakes_json:
         if stake['delegator'] == owner_address:
             continue
-        delegator.append(stake['delegator'])
-        amount.append(int(stake['amount'])/(10**18))
+        delegators.append(stake['delegator'])
+        amounts.append(int(stake['amount'])/(10**18))
         
-    if delegator == []:
+    if delegators == []:
         winner = 'No delegators to win the lottery.'
     else:
-        winner = delegator[get_proportional_random(amount, seed=seed)]
+        winner = delegators[get_proportional_random(amounts, seed=seed)]
     
     return winner
 
