@@ -1,0 +1,388 @@
+{
+    "result": {
+        "address": "rv1qgt327n4my4eq56325uply4p0nr8srdmgyw7yw2j363lcykrhz65g3c4x7v",
+        "epochInfo": {
+            "current": {
+                "owner": "rdx1qsphe3yjc89s2jqlkjcpr6hapee6hjvqn0kt57m4zyze92us8m9t2mcpeqdz2",
+                "uptimePercentage": "100.00",
+                "proposalsMissed": 0,
+                "stakes": [
+                    {
+                        "amount": "74290734016463432",
+                        "delegator": "rdx1qspkje4zs4s8rl7sww0scwrqdk4dlpsm2k4w6u8r38nx6rkz0f90nnctgv5hz"
+                    },
+                    {
+                        "amount": "5043568721204392452494",
+                        "delegator": "rdx1qsp07l4ulv4fzg9v5s4g7l6put870t7zz2vwpp5emm3z07dafj695rcx6x6yf"
+                    },
+                    {
+                        "amount": "2067159598321882234416",
+                        "delegator": "rdx1qsp2a50fyzhzguwgudrpsw85q2x9xuql9tevq43p4wwa3gdpycz7tsg0qtc9p"
+                    },
+                    {
+                        "amount": "20186764046595136876041",
+                        "delegator": "rdx1qspg6j7k67sj8g6eucwhpl2yy7zea7sfv6r7tyyqjaczk7s7w75vfasupg7ea"
+                    },
+                    {
+                        "amount": "235491966482877247064",
+                        "delegator": "rdx1qsphdm5rg6lz0jfethw827j7szdy8jvystenf77ncp0u0jld477yl0s64hnl5"
+                    },
+                    {
+                        "amount": "44584207178616022295005",
+                        "delegator": "rdx1qspknyachak4n9th2ttvjgw7k72a9qtedl55758rms29w98syt7vf3q6nd0pj"
+                    },
+                    {
+                        "amount": "981900809202894061347",
+                        "delegator": "rdx1qspvx0xxwvg6kafsz6h8gvw7twyenfkx9lv20x7ydt58ve3wml4xencpuqm02"
+                    },
+                    {
+                        "amount": "4341035156475952692274",
+                        "delegator": "rdx1qsp07jhh739df7l3ey4djwme720k7464s4c9wcd3aq5wxqk7f6cg66cjjcccy"
+                    },
+                    {
+                        "amount": "10335797991609411172081",
+                        "delegator": "rdx1qspsal3eaa6rdusqez348mkt277dr7w6mqw4fykypznv8x6cj5008kstwtje8"
+                    },
+                    {
+                        "amount": "630487991547885293441527",
+                        "delegator": "rdx1qsptzay9m3de57du6yrspyxsyku09r5msr48ewuucpyp7eue6hc3scspcu6t9"
+                    },
+                    {
+                        "amount": "19185308232025389017617",
+                        "delegator": "rdx1qspxylz03w3d8z2cx48ayz7k52s6869687myy9pywwsqw06dswxfynq7drlmj"
+                    },
+                    {
+                        "amount": "4020410278051763305583",
+                        "delegator": "rdx1qsp3te4nkc7x3cnft553ylk79qq5nfu3c3yae7x8gq2lqxnjugu3eas2y2c35"
+                    },
+                    {
+                        "amount": "51678989958047055860406",
+                        "delegator": "rdx1qspdu6mez2yvarx4ywpnzlfn3w0znfssklkakxe3xk20k5d23ahk63c7w0uke"
+                    },
+                    {
+                        "amount": "206715959832188223441",
+                        "delegator": "rdx1qsp8rdtw8k9x8sml4elj3sf4gnw3cdrps4krlca3tuqnmawns43pkpcvl7vvx"
+                    },
+                    {
+                        "amount": "14905047567740099663034",
+                        "delegator": "rdx1qsprnw0frxu4zk42z393g3feahfu6tj6pyvsz7sskq2zusaqmq4hxys525j3f"
+                    },
+                    {
+                        "amount": "98091654097761215106808",
+                        "delegator": "rdx1qsp29tylym0mzxcuc79s4zffxjcxxukyys6224m9g26gf2g0n8mh8pgs4w7ch"
+                    },
+                    {
+                        "amount": "27048783344041829037336",
+                        "delegator": "rdx1qsp6kzk6ee5v6tkcxsr5r32yk6wa8a2e9w8jquevr7ple7vmqkmrd5cftauem"
+                    },
+                    {
+                        "amount": "5160725959720472248167",
+                        "delegator": "rdx1qspge954a6xlkmlg9xd2v7znrcepy9tlageaptjgccqde2n6vcmc8nqvk80qz"
+                    },
+                    {
+                        "amount": "28164972235009941092940",
+                        "delegator": "rdx1qspup50jry2xmn390eyd6aeklzr67u94vlzjmqeqwxgjztvfjmha0lgv28zlh"
+                    },
+                    {
+                        "amount": "25839494979023527930203",
+                        "delegator": "rdx1qsp8t435450qddr3vfg0cyqww0vt2hdemz38tsm2e8tazkrupz0np2q2lg056"
+                    },
+                    {
+                        "amount": "3586822731556186891458",
+                        "delegator": "rdx1qsp708hrtg3n53mkrwg6h50qj83nqt6eqcxz9y4h9pm0dpc2zwzxg7sed7xtn"
+                    },
+                    {
+                        "amount": "25349795779323707130560",
+                        "delegator": "rdx1qspphjk0t95c60z7nq0t60qdzzftqj5nj5rzpgezfk8xyv7jl4c47hgfnsw3d"
+                    },
+                    {
+                        "amount": "20639009713472393693694",
+                        "delegator": "rdx1qsp872g3akhf3nuczqnqvmhnatzy6afva365hvrqynnrxpl2d0p89zs9t2xxl"
+                    },
+                    {
+                        "amount": "19422529141676622019327",
+                        "delegator": "rdx1qspyljc40cdq7jnjy29qxnce5rmhaeycedp8pld9u6lhmffef2ecmag3cuw68"
+                    },
+                    {
+                        "amount": "15415586111621193846384",
+                        "delegator": "rdx1qsp43dz32yt6jmpvv908nzld5mxkmme2944mru64a3jne0xsxemftag7u2qym"
+                    },
+                    {
+                        "amount": "206715959832188223441625",
+                        "delegator": "rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02ax3cgscl2zdhc3k6lg905vac"
+                    },
+                    {
+                        "amount": "8268638393287528937665",
+                        "delegator": "rdx1qsptdlutzea7xwq6wh6qxh5h3xscj9wsyr30k55plwsfehs7hx8p9kqp4nwym"
+                    },
+                    {
+                        "amount": "154229910465736505116746",
+                        "delegator": "rdx1qsp9ma7787nmyeyjr0z26x387v4s4g95h76vrwnntmjh6m5wmp5sukc4y7vmp"
+                    },
+                    {
+                        "amount": "37528526578989300040390",
+                        "delegator": "rdx1qsps24zz0mhgs2h6948f476qs2vmcgrlqjsnlyf99y2lsgrshkqkusgpcrrwv"
+                    },
+                    {
+                        "amount": "34878605787398824136188",
+                        "delegator": "rdx1qsps8uvy6mta7n3hdzdq8le8m89fz3qhk2rltanhjzvzk8wxkt9e74cwtyh78"
+                    },
+                    {
+                        "amount": "10335797991609411172081",
+                        "delegator": "rdx1qspujnumu86yja3s9gha4hskfh8gsv3l9cnj5lupspfraulmmtw4z9sk5e8jh"
+                    },
+                    {
+                        "amount": "14470117188253175640913",
+                        "delegator": "rdx1qspqnjcskuwxhvgfcj9r7yt0vkn065q4guu29qh0jyvlxkr9u9zaanq0wzccu"
+                    },
+                    {
+                        "amount": "4061432514588019050091",
+                        "delegator": "rdx1qspk3mznu8y00qyfy8af3szuw4t97mmysre05ztkrzxutw3pwjg0ewcj7jz2w"
+                    },
+                    {
+                        "amount": "61976473638476054734463",
+                        "delegator": "rdx1qspcw9mwytrtsw7ga7axzs06nms57hmwt43nr2uuxtk5tl2te0thcnggg0ete"
+                    },
+                    {
+                        "amount": "13117956288396788573556",
+                        "delegator": "rdx1qspfrmqzhfp0p83ja35sxe0lcvd4fkl57ynzveljdn9wl950maknjgq89jy2c"
+                    },
+                    {
+                        "amount": "6286232338496843874859",
+                        "delegator": "rdx1qspcaqzsszpupk0g0s8u7x3hrwsm57cq0cj2mzdkxq9tg5k9mv8a4ys4h9wt6"
+                    },
+                    {
+                        "amount": "113693777907703522892893",
+                        "delegator": "rdx1qspjrwudk2ap6gh85ua3npfg4km87d9f6n8w2u6raz38mqzl5zv5lwcn5tngu"
+                    },
+                    {
+                        "amount": "51678989958047055860406",
+                        "delegator": "rdx1qspr35tyme8lx5qvpmuxmcljf89maq0rnwmdmx3ax3l006na3g4mpfq0rvysd"
+                    },
+                    {
+                        "amount": "31007393974828233516243",
+                        "delegator": "rdx1qspen84ljtsht4fvez7ag6sq85ftafqlv7wsr853djdchravxnp6fagw03cay"
+                    },
+                    {
+                        "amount": "1980106772371734692547",
+                        "delegator": "rdx1qsphve9em7ke6u0ay39sarhtzjmjp6dd8vxqs6ajrs5tjtmes02ynyqeelxtp"
+                    },
+                    {
+                        "amount": "91398757593483443224490",
+                        "delegator": "rdx1qspnjwyluzg7h50yxvqya9ghu9cnqccz7yjylku2v3lzmgqpynjgc3quj7e8h"
+                    },
+                    {
+                        "amount": "7235058594126587820456",
+                        "delegator": "rdx1qsphemh9gwgmx4p0purwmdajsek69687ea5zp4jeeqyyd8e4l7c63ks9k8xcg"
+                    },
+                    {
+                        "amount": "131664554732856567973523",
+                        "delegator": "rdx1qspu90kuctvwcat29hrl0esxnvpnccu5cl0mf069zadmje885rx47jger0luq"
+                    },
+                    {
+                        "amount": "2580057770297002407757",
+                        "delegator": "rdx1qsp5kg8y7np029kz87c28pm27l60c64al77fvu7ut85p454luq70uds64z3kc"
+                    },
+                    {
+                        "amount": "1033579799160941117208",
+                        "delegator": "rdx1qspzj68ga6esg82r408au59lpzcggqs9cftecqauzzdn9e5e285y78q5mwwrp"
+                    },
+                    {
+                        "amount": "516789899580470558604063",
+                        "delegator": "rdx1qspempdukh3fqk298r735g7m8g4c8luee8czndq63wp7k5j9qtvw5yqjvj8aw"
+                    },
+                    {
+                        "amount": "17000242997047224637397",
+                        "delegator": "rdx1qsp8nu83ev6rz6ctn37h9guwcaxr9dhjd8kaethmlgvpt8jxpwfcqcsaj2hpj"
+                    },
+                    {
+                        "amount": "1446450936254891686703",
+                        "delegator": "rdx1qspyv2zl8yfqwca9vx6yfyr72cyvu0rr9xhlxz556v93umhjwunpyuq6yyz7y"
+                    },
+                    {
+                        "amount": "42342302021228603901507",
+                        "delegator": "rdx1qspzryy6w6psq7gk998pcmd3tl4na5sjxke7yjj0jlzhufrrqvehf3qxt62v4"
+                    },
+                    {
+                        "amount": "205925444086677077671522",
+                        "delegator": "rdx1qspuvn85gtuytk06nr7jk7rysnxwx8temcdcttnwnqeyppaa05mlq8qkwecgq"
+                    },
+                    {
+                        "amount": "10594192941399646451383",
+                        "delegator": "rdx1qspr6jzk53wjru3z26j22qnxem0g5hga74le39m77mvhjsfwlnvvqnc3jd5mm"
+                    },
+                    {
+                        "amount": "2430771217354473045698",
+                        "delegator": "rdx1qspygjqkw7sqyv9v9x405dv48aglz3m7rgl3tdmdtjh5fs3q2h4mgdgrs2uzh"
+                    },
+                    {
+                        "amount": "3798405761916458605739",
+                        "delegator": "rdx1qspwra6h3may7dlvl78d5mcnz5mzq0crqvefmp8ethe8nntr0wc9fnq3xhckl"
+                    },
+                    {
+                        "amount": "20671595983218822344162",
+                        "delegator": "rdx1qspwwdf6v47z9vh8k4r5we28e2dndt2fp48sae6fljt2s82c2hnz0ksdysg7q"
+                    },
+                    {
+                        "amount": "89289802764181569",
+                        "delegator": "rdx1qspk3tjpzj9cxf6rzqfxgq0usu0chapne6nfdd5shqs0ufj0xgs69ccuzrh38"
+                    },
+                    {
+                        "amount": "4677155307163090743590",
+                        "delegator": "rdx1qspnfnhwxtfamd7jl2urh8dcg8t86etkqxflncx4xhvk28pzana0kesd4x2s8"
+                    },
+                    {
+                        "amount": "102819940310491003410",
+                        "delegator": "rdx1qspc9x2k5fqmzl805fdgq3pzm8u0lctsy0q60dfps524wkjvlp4jweqhuay29"
+                    },
+                    {
+                        "amount": "10335797991609411172081",
+                        "delegator": "rdx1qspc9r8cp9w6ynq482q6ldrpad2g67acdu26dngcnzqwsav36wvfv2c3yp056"
+                    },
+                    {
+                        "amount": "20671595983218822344162",
+                        "delegator": "rdx1qsptcd5fu5z4uxgswnc9704d40gkrqxdc85jzp4r3mzmhe4zefs7d5cex2unf"
+                    },
+                    {
+                        "amount": "15465994002422811337570",
+                        "delegator": "rdx1qspenjvslr9835hynk6skqnr5p4aze2u4je3ulwl4qk88c0gchzmwjqj6kcs0"
+                    },
+                    {
+                        "amount": "3057681442143610352400",
+                        "delegator": "rdx1qspa7s6xd9y2t7zr3jtlyq3q32yet05sp0fflpx6d08czy3xq33f70sh9mv92"
+                    },
+                    {
+                        "amount": "103357979916094111720",
+                        "delegator": "rdx1qspu9v8xsfn30n8nsua7jf8rac0lr8yccdety8hpwmesaxqwc3fy95s267mqj"
+                    },
+                    {
+                        "amount": "5167898995804705586040",
+                        "delegator": "rdx1qsprj7rjjxesn5wmy5czqykeeu9cd49cne07e99nv243utmvdh2azwsdzeulz"
+                    },
+                    {
+                        "amount": "4475400530366875037511",
+                        "delegator": "rdx1qspet5as4afqqu08wdaut7pukt6aueme0gxk8zkt43x75pxs25j640gk58pfp"
+                    },
+                    {
+                        "amount": "2028382792570674001084",
+                        "delegator": "rdx1qsphzfz5l6nmjd26keld3ys27d4wfww50rwa4v8u9xctnhl6u0kkaggzcycuq"
+                    },
+                    {
+                        "amount": "6076415639267172828066",
+                        "delegator": "rdx1qspvceyecqf8xu80dwh0gejna7hl406d305l8y6hmmpz4se33nj83hcus6u0c"
+                    },
+                    {
+                        "amount": "102819940310491003410",
+                        "delegator": "rdx1qsp40cd75dq7l68xp0r4ec8jysuujcjh3qadqhc6vjpzjcjnhgtksgqu2qw0u"
+                    },
+                    {
+                        "amount": "349674176823424643595",
+                        "delegator": "rdx1qsps80c0vkue7v93qxmwunr65ahxlt7nmfvy8h5eax8uqzcttqw0taqd92sx0"
+                    },
+                    {
+                        "amount": "2228408834931612677741",
+                        "delegator": "rdx1qspw6dv2ashsrl9phnep83vrw0v2sz7asnc0qfrk5lujlhmn0dkmrgck9lxhf"
+                    },
+                    {
+                        "amount": "1020215204451086927440",
+                        "delegator": "rdx1qsphrmzcq62q3jmgg02l62a6hderqkpmtahlnym2gya5ssmtaz3jcrq20csfs"
+                    },
+                    {
+                        "amount": "50571015787212490079223",
+                        "delegator": "rdx1qsp3gk04sqxrsqu0nsagak3czn6suv6mfk4npmeqjlqgcqq6qpev9fgy0jnnu"
+                    },
+                    {
+                        "amount": "57794442818184034545098",
+                        "delegator": "rdx1qsplsdx64mllst7f3c5ydqjhfmxsv5l2k90z7v9d0wuzptx6kef02xgmn2w6w"
+                    },
+                    {
+                        "amount": "17065411935278565246030",
+                        "delegator": "rdx1qsptjh8kg4h6yyf6pqz0pver0ueexh7wnwm3kxuhyax70zdk9728sacmvmqwq"
+                    },
+                    {
+                        "amount": "26338296936562840274694",
+                        "delegator": "rdx1qsplsxll7zzv7xhq3ge7dzd77wyu7uxdpd2j98plxymhln0kv6ndekszmqezp"
+                    },
+                    {
+                        "amount": "775184849370705837906",
+                        "delegator": "rdx1qspld4gph2c47xarmlf37c7w9h42c7fqs4wm2m7x55za4hc020pm4cq4mlf59"
+                    },
+                    {
+                        "amount": "10169391643944499652210",
+                        "delegator": "rdx1qspugm4e0ks4cveuwu0nq8cjp2gl083477q0zr62vrrqg6as8puca7quggu0a"
+                    },
+                    {
+                        "amount": "106394622494166684100849",
+                        "delegator": "rdx1qsphe3yjc89s2jqlkjcpr6hapee6hjvqn0kt57m4zyze92us8m9t2mcpeqdz2"
+                    },
+                    {
+                        "amount": "3509496699090492577182",
+                        "delegator": "rdx1qsp00w55euggc50t4sjh6whtggahyjf4hxkdgz7mnz8m7y9avv9vupqtj0x06"
+                    },
+                    {
+                        "amount": "40877565303965728927426",
+                        "delegator": "rdx1qspapgsnakeu8y4msxlndpv27ajpptjp4zhr3th4ylhmfxh2uccqm3gwm47en"
+                    },
+                    {
+                        "amount": "50693935414266431558561",
+                        "delegator": "rdx1qspp3kqfwhp73ptjkmrrwvg0xn9k72lvar87407tp27akr5v48lznjqw4gp60"
+                    },
+                    {
+                        "amount": "8860822",
+                        "delegator": "rdx1qsp3y7v9nt2x0f3f5rmjw4cu5qwrhllggz63fa5j8qpfrr3gd6x4rxc6xcndq"
+                    },
+                    {
+                        "amount": "50244748066697520554549",
+                        "delegator": "rdx1qspr5rm0kd2z28j6rj4qclmv8pjl2gncytwtdfsktkajy9jcth6u8ngktlwdm"
+                    },
+                    {
+                        "amount": "51678989958047055860406",
+                        "delegator": "rdx1qspg7nx8lceysq0sf84ljuylq46yavr6t2zpkyl5mqpg5l4sn53ezdqpl0u6c"
+                    },
+                    {
+                        "amount": "2064932867617575914871",
+                        "delegator": "rdx1qsp9rdsfxc4s3srdkmhpwvfa4vu38ar6qw7d0574n940wxa39kx4k7sus6762"
+                    },
+                    {
+                        "amount": "5027723603270289445012",
+                        "delegator": "rdx1qspc9nlcg69ly7mvkx0attvfsnueddzej6uqvuyymvqew0n5ped3n0cevl0u3"
+                    },
+                    {
+                        "amount": "50436016435798397949817",
+                        "delegator": "rdx1qspgcfyxz3kfu7qczhs7s3l2yh9l6crg7jy3rzaq2j9fs5lk0vez0pq3qgl33"
+                    },
+                    {
+                        "amount": "318156327061761062510",
+                        "delegator": "rdx1qsp6lckqf938krqheelztqgnrkku9qg3afljanywha2xw9rs9e2hulcvcttep"
+                    },
+                    {
+                        "amount": "7546281666995193510239",
+                        "delegator": "rdx1qspcw3l6pm773e79ggkln6n4erm5xpyjandwm2r8cl73z7j568lzqkgqawwy4"
+                    },
+                    {
+                        "amount": "1549148073425592212596",
+                        "delegator": "rdx1qsprdnswgnwl9w0jled9760g74a5pd4m36cuuraplk92wxhfa39rglqphws8t"
+                    },
+                    {
+                        "amount": "206516382388643415676",
+                        "delegator": "rdx1qsp5dlsl8scjykzt2pevny3ktd9fxafl77galqm4m9vkecg5dnmu6ccc903rz"
+                    },
+                    {
+                        "amount": "103357979916094111720812",
+                        "delegator": "rdx1qsppt7tj6u79cl328887300qxetg7ywy444pufw7py5efdtzag05zusjxzu52"
+                    }
+                ],
+                "validatorFee": "2.0",
+                "registered": true,
+                "totalStake": "3594604636272446746432838",
+                "proposalsCompleted": 15
+            },
+            "updates": {}
+        },
+        "allowDelegation": true,
+        "name": "Candlestake - France \ud83d\udd6f\ufe0f",
+        "url": "https://candlestake.io"
+    },
+    "id": 1,
+    "jsonrpc": "2.0"
+}
