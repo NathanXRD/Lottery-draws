@@ -13,7 +13,11 @@ def get_proportional_random(l, seed):
     """
     random.seed(a=seed, version=2)
 
-    return random.choices(range(len(l)), weights=l, k=1)[0]
+    hit = random.uniform(0, sum(l))
+    for i, amount in enumerate(l):
+        if hit < amount:
+            return i
+        hit -= amount
 
 
 def get_winner(stakes_json, owner_address, seed):

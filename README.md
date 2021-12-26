@@ -25,3 +25,7 @@ Stakes json: ./Draws/Sample draw - 17-08-2021/17-08-2021_00-00-00.json
 ```
 
 In this case, the winning address is `rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02ax3cgscl2zdhc3k6lg905vac`. Congratulations to them for winning this 0 XRD lottery! 🎉🎉🎉
+
+## Note
+
+The lotteries from 1 to 9 (included) were performed using `get-winner-old.py`. Starting from the 10th lottery, the script called `get-winner.py` is the one we will use.
