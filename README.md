@@ -28,4 +28,4 @@ In this case, the winning address is `rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02a
 
 ## Note
 
-The lotteries from 1 to 9 (included) were performed using `get-winner-old.py`. Starting from the 10th lottery, the script called `get-winner.py` is the one we will use.
+The lotteries from 1 to 9 (included) were performed using `Unused/get-winner-old.py`. Starting from the 10th lottery, the script called `get-winner.py` is the one we will use.
