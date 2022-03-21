@@ -6,4 +6,4 @@
 
 The winner is `rdx1qsp4uhckvja80u2s8yrztu47fq6kr4f5q5z8a0n6ugeygrfvludhqysgq6l4v`.
 
-May they enjoy their 627 XRD ($77 at the time of the draw) 🙏
+May they enjoy their 875 XRD ($107 at the time of the draw) 🙏
