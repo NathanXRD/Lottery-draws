@@ -1,11 +1,11 @@
 import json
-import pandas as pd
 import random
 
 def get_proportional_random(l, seed):
     """
     Params:
     `l` is a list of strictly positive numbers.
+
     Returns:
     Returns the index of the number chosen randomly.
     Let `S` be the sum of the elements of `l`, then
@@ -16,15 +16,15 @@ def get_proportional_random(l, seed):
     return random.choices(range(len(l)), weights=l, k=1)[0]
 
 
-def get_winner(stakes_df, owner_address, seed):
+def get_winner(stakes_json, owner_address, seed):
     delegators = []
     amounts = []
 
-    for i, (delegator, stake) in stakes_df.iterrows():
-        if delegator == owner_address:
+    for stake in stakes_json:
+        if stake['delegator'] == owner_address:
             continue
-        delegators.append(delegator)
-        amounts.append(int(stake)/(10**18))
+        delegators.append(stake['delegator'])
+        amounts.append(int(stake['amount'])/(10**18))
         
     if delegators == []:
         winner = 'No delegators to win the lottery.'
@@ -34,19 +34,20 @@ def get_winner(stakes_df, owner_address, seed):
     return winner
 
 
-def main(seed, file):
+def main(seed, json_file):
 
-    stakes_df = pd.read_csv(file)
+    with open(json_file, 'r') as f:
+        stakes_json = json.load(f)['result']['epochInfo']['current']['stakes']
 
     winner = get_winner(
-        stakes_df,
+        stakes_json,
         owner_address='rdx1qsphe3yjc89s2jqlkjcpr6hapee6hjvqn0kt57m4zyze92us8m9t2mcpeqdz2',
         seed=seed
     )
 
     print('Winner:', winner)
     print('Seed:', seed)
-    print('Stakes CSV:', file)
+    print('Stakes json:', json_file)
 
 
 if __name__ == '__main__':

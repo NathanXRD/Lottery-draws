@@ -1,0 +1,1 @@
+This folder only contains a sample csv file, to try the get-winner.py script.

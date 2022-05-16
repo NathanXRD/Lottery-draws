@@ -14,7 +14,7 @@ It must be called like this: `python get-winner.py <seed> <path_to_candidates_js
 A correct use would be:
 
 ```bash
-python3 ./get-winner.py 0000000000000000000bb6435ae10d81d962a6714d9a6d1e8db3cee38303902f './Draws/Sample draw - 17-08-2021/17-08-2021_00-00-00.json'
+python3 ./get-winner.py 0000000000000000000bb6435ae10d81d962a6714d9a6d1e8db3cee38303902f 'Draws\Sample\sample.csv'
 ```
 
 Which displays:
@@ -28,4 +28,8 @@ In this case, the winning address is `rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02a
 
 ## Note
 
-The lotteries from 1 to 9 (included) were performed using `Unused/get-winner-old.py`. Starting from the 10th lottery, the script called `get-winner.py` is the one we will use.
+The lotteries from 1 to 9 (included) were performed using `Unused/get-winner-old-1.py`.
+
+Lotteries from 10 to 19 (included) were performe using `Unused/get-winner-old-2.py`.
+
+Starting from the 20th lottery, the script called `get-winner.py` is the one we will use.
