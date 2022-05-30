@@ -19,12 +19,12 @@ python3 ./get-winner.py 0000000000000000000bb6435ae10d81d962a6714d9a6d1e8db3cee3
 
 Which displays:
 ```bash
-Winner: rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02ax3cgscl2zdhc3k6lg905vac
+Winner: rdx1qsptzay9m3de57du6yrspyxsyku09r5msr48ewuucpyp7eue6hc3scspcu6t9
 Seed: 1121783408069534878293918418128988563240585841701261359
-Stakes json: ./Draws/Sample draw - 17-08-2021/17-08-2021_00-00-00.json
+Stakes CSV: Draws\Sample\sample.csv
 ```
 
-In this case, the winning address is `rdx1qspjc6z4kyv4t29gngn7g59cynx350wudaf02ax3cgscl2zdhc3k6lg905vac`. Congratulations to them for winning this 0 XRD lottery! 🎉🎉🎉
+In this case, the winning address is `rdx1qsptzay9m3de57du6yrspyxsyku09r5msr48ewuucpyp7eue6hc3scspcu6t9`. Congratulations to them for winning this 0 XRD lottery! 🎉🎉🎉
 
 ## Note
 
