@@ -1,4 +1,4 @@
-# First Bitcoin block mined after 25/07/2022 08:00:00 UTC
+# First Bitcoin block mined after 25/07/2022 00:00:00 UTC
 
 * Block number: 746394
 * Time: 25/07/2022 00:19 UTC
