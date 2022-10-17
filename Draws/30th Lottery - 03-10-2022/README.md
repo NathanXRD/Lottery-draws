@@ -1,6 +1,6 @@
 # First Bitcoin block mined after 03/10/2022 00:00:00 UTC
 
-* Block number: 
+* Block number: 756787
 * Time: 03/10/2022 00:05 UTC
 * Hash: 0000000000000000000423a00b57132870f2930804ef5a39dee7ea428f587c8c
 
