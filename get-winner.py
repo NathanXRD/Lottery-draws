@@ -67,6 +67,7 @@ def main(seed: int, csv_file_path: str, n_winners: int) -> None:
     print(f'///// Candlestake Lottery Results /////')
     print()
     print('Seed:', seed)
+    print('Seed (hex):', hex(seed))
     print('Stakes CSV:', csv_file_path)
     print()
     print(f'{n_winners} winner{"s" if n_winners > 1 else ""}:')
