@@ -8,7 +8,7 @@
 * Individual prize: 643 XRD
 
 The winners are:
-* `rdx1qsp4uhckvja80u2s8yrztu47fq6kr4f5q5z8a0n6ugeygrfvludhqysgq6l4v`.
+* `rdx1qsp4uhckvja80u2s8yrztu47fq6kr4f5q5z8a0n6ugeygrfvludhqysgq6l4v`
 * `rdx1qspk55378p6m3xvjtfckn6jgc2lgxwptm9smslvvll85q5ydanwj8cguxhwqq`
 
 🙏🙏🙏🙏🙏
