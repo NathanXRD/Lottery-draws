@@ -1,7 +1,7 @@
 # First Bitcoin block mined after 17/04/2023 00:00:00 UTC
 
 * Block number: 785713
-* Time: 03/04/2023 00:17 UTC
+* Time: 17/04/2023 00:17 UTC
 * Hash: 00000000000000000001a5c28b6f7e63d70aa41cd824671023c7eff2f5c12b72
 * Total prize: 1880 XRD
 * Number of winners: 3
